@@ -1,0 +1,11 @@
+app:
+  service-name : Industry Service
+  name : NMSWorks
+  emp:
+     name : Deepika
+     id : 1
+  emp:
+     name : Roshi
+     id : 2
+
+  
